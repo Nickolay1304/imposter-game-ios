@@ -1,0 +1,137 @@
+[
+  {
+    "id": "food",
+    "name": "Food",
+    "isPremium": false,
+    "icon": "fork.knife",
+    "words": [
+      "Pizza", "Sushi", "Burger", "Pasta", "Taco", "Salad", "Ramen", "Steak",
+      "Pancake", "Sandwich", "Curry", "Soup", "Dumpling", "Burrito", "Waffle",
+      "Donut", "Croissant", "Omelette", "Lasagna", "Kebab", "Risotto", "Paella",
+      "Ceviche", "Gnocchi", "Falafel", "Hummus", "Gazpacho", "Tiramisu",
+      "Cheesecake", "Brownie"
+    ],
+    "localization": {
+      "en": {
+        "name": "Food",
+        "words": [
+          "Pizza", "Sushi", "Burger", "Pasta", "Taco", "Salad", "Ramen", "Steak",
+          "Pancake", "Sandwich", "Curry", "Soup", "Dumpling", "Burrito", "Waffle",
+          "Donut", "Croissant", "Omelette", "Lasagna", "Kebab", "Risotto", "Paella",
+          "Ceviche", "Gnocchi", "Falafel", "Hummus", "Gazpacho", "Tiramisu",
+          "Cheesecake", "Brownie"
+        ]
+      },
+      "uk": {
+        "name": "Їжа",
+        "words": [
+          "Піца", "Суші", "Бургер", "Паста", "Тако", "Салат", "Рамен", "Стейк",
+          "Панкейк", "Сендвіч", "Карі", "Суп", "Вареник", "Бурито", "Вафля",
+          "Пончик", "Круасан", "Омлет", "Лазанья", "Кебаб", "Різотто", "Паелья",
+          "Севіче", "Ньоккі", "Фалафель", "Хумус", "Гаспачо", "Тірамісу",
+          "Чизкейк", "Брауні"
+        ]
+      },
+      "ru": {
+        "name": "Еда",
+        "words": [
+          "Пицца", "Суши", "Бургер", "Паста", "Тако", "Салат", "Рамен", "Стейк",
+          "Панкейк", "Сэндвич", "Карри", "Суп", "Пельмень", "Буррито", "Вафля",
+          "Пончик", "Круассан", "Омлет", "Лазанья", "Кебаб", "Ризотто", "Паэлья",
+          "Севиче", "Ньокки", "Фалафель", "Хумус", "Гаспачо", "Тирамису",
+          "Чизкейк", "Брауни"
+        ]
+      }
+    }
+  },
+  {
+    "id": "animals",
+    "name": "Animals",
+    "isPremium": false,
+    "icon": "pawprint.fill",
+    "words": [
+      "Lion", "Tiger", "Elephant", "Giraffe", "Zebra", "Kangaroo", "Panda",
+      "Koala", "Penguin", "Dolphin", "Shark", "Whale", "Octopus", "Eagle",
+      "Owl", "Parrot", "Flamingo", "Crocodile", "Turtle", "Snake", "Frog",
+      "Rabbit", "Squirrel", "Hedgehog", "Fox", "Wolf", "Bear", "Deer",
+      "Horse", "Cheetah"
+    ],
+    "localization": {
+      "en": {
+        "name": "Animals",
+        "words": [
+          "Lion", "Tiger", "Elephant", "Giraffe", "Zebra", "Kangaroo", "Panda",
+          "Koala", "Penguin", "Dolphin", "Shark", "Whale", "Octopus", "Eagle",
+          "Owl", "Parrot", "Flamingo", "Crocodile", "Turtle", "Snake", "Frog",
+          "Rabbit", "Squirrel", "Hedgehog", "Fox", "Wolf", "Bear", "Deer",
+          "Horse", "Cheetah"
+        ]
+      },
+      "uk": {
+        "name": "Тварини",
+        "words": [
+          "Лев", "Тигр", "Слон", "Жираф", "Зебра", "Кенгуру", "Панда",
+          "Коала", "Пінгвін", "Дельфін", "Акула", "Кит", "Восьминіг", "Орел",
+          "Сова", "Папуга", "Фламінго", "Крокодил", "Черепаха", "Змія", "Жаба",
+          "Кролик", "Білка", "Їжак", "Лисиця", "Вовк", "Ведмідь", "Олень",
+          "Кінь", "Гепард"
+        ]
+      },
+      "ru": {
+        "name": "Животные",
+        "words": [
+          "Лев", "Тигр", "Слон", "Жираф", "Зебра", "Кенгуру", "Панда",
+          "Коала", "Пингвин", "Дельфин", "Акула", "Кит", "Осьминог", "Орёл",
+          "Сова", "Попугай", "Фламинго", "Крокодил", "Черепаха", "Змея", "Лягушка",
+          "Кролик", "Белка", "Ёж", "Лиса", "Волк", "Медведь", "Олень",
+          "Лошадь", "Гепард"
+        ]
+      }
+    }
+  },
+  {
+    "id": "movies",
+    "name": "Movies",
+    "isPremium": false,
+    "icon": "film.fill",
+    "words": [
+      "Titanic", "Avatar", "Inception", "Gladiator", "Matrix", "Joker",
+      "Frozen", "Shrek", "Interstellar", "Rocky", "Jaws", "Alien", "Terminator",
+      "Casablanca", "Goodfellas", "Amelie", "Parasite", "Oppenheimer", "Barbie",
+      "Coco", "Up", "Wall-E", "Ratatouille", "Zootopia", "Toy Story", "Whiplash",
+      "Arrival", "Dune", "Logan", "Birdman"
+    ],
+    "localization": {
+      "en": {
+        "name": "Movies",
+        "words": [
+          "Titanic", "Avatar", "Inception", "Gladiator", "Matrix", "Joker",
+          "Frozen", "Shrek", "Interstellar", "Rocky", "Jaws", "Alien", "Terminator",
+          "Casablanca", "Goodfellas", "Amelie", "Parasite", "Oppenheimer", "Barbie",
+          "Coco", "Up", "Wall-E", "Ratatouille", "Zootopia", "Toy Story", "Whiplash",
+          "Arrival", "Dune", "Logan", "Birdman"
+        ]
+      },
+      "uk": {
+        "name": "Фільми",
+        "words": [
+          "Титанік", "Аватар", "Початок", "Гладіатор", "Матриця", "Джокер",
+          "Холодне серце", "Шрек", "Інтерстеллар", "Роккі", "Щелепи", "Чужий", "Термінатор",
+          "Касабланка", "Славні хлопці", "Амелі", "Паразити", "Оппенгеймер", "Барбі",
+          "Тайна Коко", "Вперед і вгору", "Валл-І", "Рататуй", "Зоотрополіс", "Історія іграшок", "Одержимість",
+          "Прибуття", "Дюна", "Логан", "Бердмен"
+        ]
+      },
+      "ru": {
+        "name": "Фильмы",
+        "words": [
+          "Титаник", "Аватар", "Начало", "Гладиатор", "Матрица", "Джокер",
+          "Холодное сердце", "Шрек", "Интерстеллар", "Рокки", "Челюсти", "Чужой", "Терминатор",
+          "Касабланка", "Славные парни", "Амели", "Паразиты", "Оппенгеймер", "Барби",
+          "Тайна Коко", "Вверх", "Валли", "Рататуй", "Зверополис", "История игрушек", "Одержимость",
+          "Прибытие", "Дюна", "Логан", "Бёрдмэн"
+        ]
+      }
+    }
+  }
+]
